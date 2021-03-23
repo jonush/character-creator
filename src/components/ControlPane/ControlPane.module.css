@@ -5,9 +5,9 @@
   background-color: white;
   border-radius: 8px;
   /*
-    HACK: Margin on an outer bound like this is
-    a little gross, but we haven't seen the tools
-    to deal with it yet!
+  HACK: Margin on an outer bound like this is
+  a little gross, but we haven't seen the tools
+  to deal with it yet!
   */
   margin-bottom: 32px;
 }
@@ -15,7 +15,7 @@
 .title {
   margin: 0;
   /* Optical centering */
-  margin-bottom: -4px;
+  margin-bottom: 8px;
 }
 
 .metadata {
